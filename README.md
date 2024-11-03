@@ -40,5 +40,5 @@ A simple and efficient URL Shortener developed using **Spring Boot**, **JPA**, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/sleepygig/url-shortener.git
    cd url-shortener
