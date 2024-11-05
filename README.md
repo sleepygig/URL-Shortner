@@ -9,8 +9,6 @@ A simple and efficient URL Shortener developed using **Spring Boot**, **JPA**, a
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Postman Testing](#postman-testing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
